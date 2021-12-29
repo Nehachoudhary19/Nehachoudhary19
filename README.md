@@ -8,10 +8,10 @@ A hustler trying to explore all the aspects of computer science engineering, try
 👯 I’m looking to collaborate with content creators<br>
 ⚡ Fun fact: Code ❤️ Coffee ❤️ Content<br>
 
-<h3>📫 How to reach me:</h3>
+<h3>📫 Connect with me:</h3>
   <a href="https://www.linkedin.com/in/neha-choudhary7/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width:5%;height:5%;margin-left:50%;"></a>
 
-
+<br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehachoudhary19&layout=compact)](https://github.com/Nehachoudhary19/github-readme-stats)
 
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehachoudhary19&show_icons=true&theme=radical)
