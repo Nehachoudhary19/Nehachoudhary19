@@ -9,7 +9,7 @@ A hustler trying to explore all the aspects of computer science engineering, try
 ⚡ Fun fact: Code ❤️ Coffee ❤️ Content<br>
 
 <h3>📫 How to reach me:</h3>
-  https://raw.githubusercontent.com/iconic/open-iconic/master/svg/[linkedin].svg
+  <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/[linkedin].svg">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehachoudhary19&layout=compact)](https://github.com/Nehachoudhary19/github-readme-stats)
