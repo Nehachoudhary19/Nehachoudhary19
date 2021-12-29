@@ -3,7 +3,8 @@
 
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehachoudhary19&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehachoudhary19)](https://github.com/Nehachoudhary19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehachoudhary19&layout=compact)](https://github.com/Nehachoudhary19/github-readme-stats)
+
 
 
 <!--
