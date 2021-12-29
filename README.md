@@ -1,4 +1,9 @@
-### Hi, 👋 I am Neha Choudhary
+### <h1>Hey!👋 This is Neha Choudhary</h1>
+
+A hustler trying to explore all the aspects of computer science engineering, trying to go through all the ups and downs with a hope to become a better version of myself.😌
+
+and Currently pursuing BE-CSE from Chandigarh University (CS'23)🎓
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehachoudhary19&layout=compact)](https://github.com/Nehachoudhary19/github-readme-stats)
