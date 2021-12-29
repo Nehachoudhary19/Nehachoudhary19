@@ -1,4 +1,4 @@
-### <h1>Hey!👋 This is Neha Choudhary</h1>
+### <h2>Hey!👋 This is Neha Choudhary</h2>
 
 A hustler trying to explore all the aspects of computer science engineering, trying to go through all the ups and downs with a hope to become a better version of myself.😌
 <br>and Currently pursuing BE-CSE from Chandigarh University (CS'23)🎓
