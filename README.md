@@ -1,6 +1,6 @@
 ### Hi, 👋 I am Neha Choudhary
 
-https://github-readme-stats.vercel.app/api?username=Nehachoudhary19
+[![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehachoudhary19)](https://github.com/Nehachoudhary19/github-readme-stats)
 
 <!--
 **Nehachoudhary19/Nehachoudhary19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
