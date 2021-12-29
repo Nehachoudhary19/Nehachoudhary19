@@ -4,6 +4,7 @@ A hustler trying to explore all the aspects of computer science engineering, try
 
 and Currently pursuing BE-CSE from Chandigarh University (CS'23)🎓
 
+🌱 <h2>I’m currently learning</h2> ReactJS with a pinch of data structures (offtrack but necessary!)...
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehachoudhary19&layout=compact)](https://github.com/Nehachoudhary19/github-readme-stats)
