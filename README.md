@@ -8,6 +8,8 @@ A hustler trying to explore all the aspects of computer science engineering, try
 👯 I’m looking to collaborate with content creators<br>
 ⚡ Fun fact: Code ❤️ Coffee ❤️ Content<br>
 
+Have a look at my portfolio 👉 https://nehachoudhary19.github.io/portfo/
+
 <h3>📫 Connect with me:</h3>
   <a href="https://www.linkedin.com/in/neha-choudhary7/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width:5%;height:5%;margin-left:50%;"></a>
 
