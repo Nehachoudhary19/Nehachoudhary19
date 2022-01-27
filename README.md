@@ -2,13 +2,13 @@
 
 A hustler trying to explore all the aspects of computer science engineering, trying to go through all the ups and downs with a hope to become a better version of myself.😌
 <br>and Currently pursuing BE-CSE from Chandigarh University (CS'23)🎓
-
+<img src="/image49.png" align="right" style="width:300px;height:300px;">
 🔭 I’m currently working on a personal project.<br>
 🌱 I’m currently learning ReactJS with a pinch of data structures (offtrack but necessary!)...<br>
 👯 I’m looking to collaborate with content creators<br>
 ⚡ Fun fact: Code ❤️ Coffee ❤️ Content<br>
 
-<img src="/image49.png" align="right" style="width:500px;height:500px;"> 
+ 
 
 Have a look at my portfolio 👉 https://nehachoudhary19.github.io/portfo/
 
