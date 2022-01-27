@@ -8,7 +8,7 @@ A hustler trying to explore all the aspects of computer science engineering, try
 👯 I’m looking to collaborate with content creators<br>
 ⚡ Fun fact: Code ❤️ Coffee ❤️ Content<br>
 
-<img src="/image49.png" align="right"> 
+<img src="/image49.png" align="right" style="width:500px;height:500px;"> 
 
 Have a look at my portfolio 👉 https://nehachoudhary19.github.io/portfo/
 
