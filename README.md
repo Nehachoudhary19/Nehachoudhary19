@@ -7,7 +7,7 @@ and Currently pursuing BE-CSE from Chandigarh University (CS'23)🎓
 🔭 I’m currently working on a personal project.<br>
 🌱 I’m currently learning ReactJS with a pinch of data structures (offtrack but necessary!)...<br>
 👯 I’m looking to collaborate with content creators<br>
-⚡ Fun fact: Code ❤️ Coffee ❤️ Content<br>
+⚡ Code ❤️ Coffee ❤️ Content<br>
 
  
 
