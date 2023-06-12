@@ -1,7 +1,7 @@
 ### <h2>Hey!👋 This is Neha Choudhary</h2>
 
 A hustler trying to explore all the aspects of computer science engineering, trying to go through all the ups and downs with a hope to become a better version of myself.😌
-<img src="/Free_PSD___3d_female_character_sitting_in_chair_with_headphones_and_cup_of_coffee-removebg-preview.png" align="right" style="width:400px;height:400px;">
+<!--<img src="/Free_PSD___3d_female_character_sitting_in_chair_with_headphones_and_cup_of_coffee-removebg-preview.png" align="right" style="width:400px;height:400px;">-->
 and Currently pursuing BE-CSE from Chandigarh University (CS'23)🎓
 <br>
 🔭 I’m currently working on a personal project.<br>
